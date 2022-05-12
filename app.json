@@ -1,0 +1,24 @@
+{
+  "id": "601628ad-07c4-48bf-981d-6cad53ede8bd",
+  "name": "ChangeCompany",
+  "publisher": "Dashrath Gagiya",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 73100,
+      "to": 73105
+    }
+  ],"showMyCode": false,
+  "runtime": "7.0"
+}
